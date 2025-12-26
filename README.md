@@ -1,11 +1,3 @@
-Sure, Dhanuu 👍
-Here is a clean, academic-friendly README.md file that you can directly upload to GitHub.
-
-You can copy-paste this as README.md.
-
-
----
-
 📄 PDF Filename Inserter & Merger (Windows Application)
 
 📌 Project Description

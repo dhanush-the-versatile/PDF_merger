@@ -254,20 +254,3 @@ PDF processing
 
 This project is open-source and free to use for academic purposes.
 
-
----
-
-If you want, Dhanuu, I can also:
-
-📄 Generate requirements.txt
-
-📘 Prepare project report
-
-📊 Draw DFD / Flowchart
-
-🧪 Create sample test PDFs
-
-🖥️ Package as ready-to-submit ZIP
-
-
-Just tell me 👍

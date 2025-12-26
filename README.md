@@ -111,7 +111,7 @@ pip install PyPDF2 reportlab
 3️⃣ Clone the Repository
 
 git clone https://github.com/dhanush-the-versatile/PDF_merger.git
-cd PDF-Filename-Inserter-Merger
+cd PDF_merger
 
 
 ---
